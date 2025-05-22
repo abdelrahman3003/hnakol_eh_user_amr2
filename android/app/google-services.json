@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "303325207155",
+    "project_id": "hanakol-eah-71378",
+    "storage_bucket": "hanakol-eah-71378.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303325207155:android:4d97e3823e3d1f696ee806",
+        "android_client_info": {
+          "package_name": "com.moneyleekhanakoleah.hanakoleahuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303325207155-n8dtksaqun82qt0lve6ct33msvatbm8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moneyleekhanakoleah.hanakoleahuser",
+            "certificate_hash": "8a8aa2feda7885bf92dcab634845ff32582e2feb"
+          }
+        },
+        {
+          "client_id": "303325207155-g9otodhbmqug5b069iufth9cjtqjk4lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7D524g0bCnCChDsvT4KOn_G1nGv9jDQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303325207155-g9otodhbmqug5b069iufth9cjtqjk4lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

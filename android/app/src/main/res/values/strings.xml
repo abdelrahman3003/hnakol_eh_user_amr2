@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hanakol Eah</string>
+    <string name="facebook_app_id">955039736363592</string>
+    <string name="fb_login_protocol_scheme">fb955039736363592</string>
+    <string name="facebook_client_token">d040ec43a7b0fa9bc4dfb344ad186739</string>
+</resources>
